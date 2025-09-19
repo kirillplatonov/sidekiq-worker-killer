@@ -23,7 +23,7 @@ quick-refs: [install](#install) | [usage](#usage) | [available options](#availab
 ## Install
 Use [Bundler](http://bundler.io/)
 ```ruby
-gem "sidekiq-worker-killer"
+gem "sidekiq-worker-killer", github: "kirillplatonov/sidekiq-worker-killer"
 ```
 
 ## Usage
